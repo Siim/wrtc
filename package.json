@@ -8,12 +8,12 @@
   ],
   "version": "0.5.3",
   "author": "Alan K <ack@modeswitch.org> (http://blog.modeswitch.org)",
-  "homepage": "https://github.com/koush/node-webrtc",
-  "bugs": "https://github.com/koush/node-webrtc/issues",
+  "homepage": "https://github.com/Siim/webrtc",
+  "bugs": "https://github.com/Siim/webrtc/issues",
   "license": "BSD-2-Clause",
   "repository": {
     "type": "git",
-    "url": "http://github.com/koush/node-webrtc.git"
+    "url": "http://github.com/Siim/webrtc.git"
   },
   "main": "lib/index.js",
   "browser": "lib/browser.js",
