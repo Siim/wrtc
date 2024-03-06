@@ -1,5 +1,5 @@
 {
-  "name": "@koush/wrtc",
+  "name": "wrtc",
   "description": "Standards-compliant WebRTC implementation for Node",
   "keywords": [
     "webrtc",
